@@ -1,3 +1,11 @@
+/*
+#include <iostream>
+
+main() {
+    return 0;
+}
+
+*/
 /*#include<stdio.h>
 int main()
 {
