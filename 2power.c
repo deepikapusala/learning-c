@@ -9,6 +9,7 @@ int main()
     y = 1.0;
     while(count < n) 
     {
+      //ythis is a while loop runs on a condition "<n"
       y = y * 2; 
       count++;
     }
