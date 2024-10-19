@@ -9,9 +9,9 @@ int main()
     y = 1.0;
     while(count < n) 
     {
-      //ythis is a while loop runs on a condition "<n"
+      //this is a while loop runs on a condition "<n"
       y = y * 2; 
-      count++;
+      count++;//increments count by 1
     }
    printf("\n 2 to power %d is %lf.",n,y);
    return 0;
