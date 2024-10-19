@@ -26,6 +26,7 @@ int fib(int n);
 
 int main()
 {
+  // TODO: Improve this program by accepting an integer as input and pass to fib(n)
   printf("\n%d",fib(8));
   return 0;
 }
